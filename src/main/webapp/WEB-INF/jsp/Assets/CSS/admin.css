@@ -1,0 +1,47 @@
+
+.debug1 {
+    background-color: brown;
+}
+
+.debug2 {
+    background-color: chartreuse;
+}
+
+::placeholder {
+    color: #115CCD;
+    opacity: 1;
+}
+
+.inputborder {
+    border: 1px solid #0B54AA;
+    border-radius: 5px;
+}
+
+.rightmargin2 {
+    margin-right: 10px;
+}
+.w-40 {
+    width: 40%;
+}
+.box{
+    border-color: #115CCD;
+}
+
+#box{
+    /* border-color: #115CCD; */
+    border: 1px solid #115CCD;
+    border-radius: 10px; 
+}
+.upvote.far {
+    color: #115CCD;
+}
+.search{
+    border-radius:10px;
+}
+.sort{
+    box-align:inline;
+}
+
+ul {
+	max-width: 99%;
+}

@@ -1,0 +1,46 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.rounded_ {
+    padding: inherit;
+    border-radius: 5px;
+}
+
+.mhc {
+    background-color:#115CCD;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    line-height: 25px;
+}
+
+.btns {
+    background-color:#115CCD;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+    width: auto;
+    height: auto;
+    line-height: 25px;
+}
+
+.btns:hover {
+    border-color: #115CCD;
+    border-style: solid;
+    background-color: white;
+    color: #115CCD;
+}
+.fas:hover {
+    color: #115CCD;
+}
+
+.ns {
+    overflow: hidden;
+}
+
+.color-blue {
+    color: #115CCD;
+}
